@@ -10,6 +10,7 @@
  * @CLUB: clubs suit.
  * @DIAMOND: diamonds suit.
  */
+
 typedef enum kind_e
 {
 	SPADE = 0,
