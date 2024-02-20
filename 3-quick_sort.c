@@ -10,6 +10,7 @@ void quick_sort(int *array, size_t size);
  * @a: the first integer to swap.
  * @b: the second integer to swap.
  */
+
 void swap_ints(int *a, int *b)
 {
 	int tmp;
